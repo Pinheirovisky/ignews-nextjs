@@ -1,7 +1,7 @@
 import Head from "next/head";
+import { SubscribeButton } from "../components/SubscribeButton";
 
 import styles from "./home.module.scss";
-import { SubscribeButton } from "./SubscribeButton";
 
 export default function Home() {
   return (
