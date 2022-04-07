@@ -12,6 +12,10 @@
 /.next/
 /out/
 
+# prismic
+/.slicemachine/
+customtypes
+
 # production
 /build
 
